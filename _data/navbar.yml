@@ -1,10 +1,12 @@
-- name: Home
+- name: HOME
   link: /
-- name: About
+- name: ABOUT
   link: '#about'
-- name: Features
+- name: FEATURES
   link: '#contacts'
-- name: Contacts
+- name: SUBSCRIBE
+  link: '#subscribe'
+- name: CONTACTS
   link: '#contacts'
 - name: Become a beta tester
   link: '#signup'
