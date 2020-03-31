@@ -1,0 +1,11 @@
+- name: Home
+  link: /
+- name: About
+  link: '#about'
+- name: Features
+  link: '#contacts'
+- name: Contacts
+  link: '#contacts'
+- name: Become a beta tester
+  link: '#signup'
+  styles: 'btn btn-success'
