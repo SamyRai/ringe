@@ -3,11 +3,9 @@
 - name: ABOUT
   link: '#about'
 - name: FEATURES
-  link: '#contacts'
-- name: SUBSCRIBE
-  link: '#subscribe'
+  link: '#features'
 - name: CONTACTS
   link: '#contacts'
 - name: Become a beta tester
-  link: '#signup'
+  link: '#subscribe'
   styles: 'btn btn-success'
